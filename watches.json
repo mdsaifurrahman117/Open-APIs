@@ -1,5 +1,6 @@
 [
             {
+                        "id": 1,
                         "brand": "Rolex",
                         "model": "Submariner",
                         "price": 10000,
@@ -11,6 +12,7 @@
                         "availability": "In Stock"
             },
             {
+                        "id": 2,
                         "brand": "Omega",
                         "model": "Speedmaster",
                         "price": 7500,
@@ -22,6 +24,7 @@
                         "availability": "Limited Stock"
             },
             {
+                        "id": 3,
                         "brand": "Tag Heuer",
                         "model": "Carrera",
                         "price": 5000,
@@ -33,6 +36,7 @@
                         "availability": "In Stock"
             },
             {
+                        "id": 4,
                         "brand": "Seiko",
                         "model": "Prospex",
                         "price": 600,
@@ -44,6 +48,7 @@
                         "availability": "In Stock"
             },
             {
+                        "id": 5,
                         "brand": "Casio",
                         "model": "G-Shock",
                         "price": 150,
@@ -55,6 +60,7 @@
                         "availability": "In Stock"
             },
             {
+                        "id": 6,
                         "brand": "Tissot",
                         "model": "T-Touch",
                         "price": 1200,
@@ -66,6 +72,7 @@
                         "availability": "Out of Stock"
             },
             {
+                        "id": 7,
                         "brand": "Citizen",
                         "model": "Eco-Drive",
                         "price": 350,
@@ -77,6 +84,7 @@
                         "availability": "In Stock"
             },
             {
+                        "id": 8,
                         "brand": "Breitling",
                         "model": "Navitimer",
                         "price": 9000,
@@ -88,6 +96,7 @@
                         "availability": "Limited Stock"
             },
             {
+                        "id": 9,
                         "brand": "Audemars Piguet",
                         "model": "Royal Oak",
                         "price": 25000,
@@ -99,6 +108,7 @@
                         "availability": "Pre-order Only"
             },
             {
+                        "id": 10,
                         "brand": "Patek Philippe",
                         "model": "Nautilus",
                         "price": 40000,
@@ -110,6 +120,7 @@
                         "availability": "Pre-order Only"
             },
             {
+                        "id": 11,
                         "brand": "Longines",
                         "model": "HydroConquest",
                         "price": 2000,
@@ -121,6 +132,7 @@
                         "availability": "In Stock"
             },
             {
+                        "id": 12,
                         "brand": "Hamilton",
                         "model": "Khaki Field",
                         "price": 700,
@@ -132,6 +144,7 @@
                         "availability": "In Stock"
             },
             {
+                        "id": 13,
                         "brand": "IWC",
                         "model": "Pilot's Watch",
                         "price": 7500,
@@ -143,6 +156,7 @@
                         "availability": "Limited Stock"
             },
             {
+                        "id": 14,
                         "brand": "Panerai",
                         "model": "Luminor",
                         "price": 8500,
@@ -154,6 +168,7 @@
                         "availability": "Pre-order Only"
             },
             {
+                        "id": 15,
                         "brand": "Hublot",
                         "model": "Big Bang",
                         "price": 14000,
@@ -165,6 +180,7 @@
                         "availability": "Out of Stock"
             },
             {
+                        "id": 16,
                         "brand": "Vacheron Constantin",
                         "model": "Overseas",
                         "price": 28000,
@@ -176,6 +192,7 @@
                         "availability": "Limited Stock"
             },
             {
+                        "id": 17,
                         "brand": "Jaeger-LeCoultre",
                         "model": "Reverso",
                         "price": 11000,
@@ -187,6 +204,7 @@
                         "availability": "In Stock"
             },
             {
+                        "id": 18,
                         "brand": "Montblanc",
                         "model": "1858",
                         "price": 5000,
@@ -198,6 +216,7 @@
                         "availability": "In Stock"
             },
             {
+                        "id": 19,
                         "brand": "Richard Mille",
                         "model": "RM 11-03",
                         "price": 150000,
@@ -209,6 +228,7 @@
                         "availability": "Pre-order Only"
             },
             {
+                        "id": 20,
                         "brand": "Grand Seiko",
                         "model": "Spring Drive",
                         "price": 6000,
