@@ -1,0 +1,262 @@
+[
+            {
+                        "id": 1,
+                        "brand": "Apple",
+                        "model": "MacBook Air M2",
+                        "price": 1200,
+                        "specs": {
+                                    "processor": "Apple M2",
+                                    "ram": "16GB",
+                                    "storage": "512GB SSD",
+                                    "display": "13.6-inch Retina"
+                        },
+                        "availability": "In Stock"
+            },
+            {
+                        "id": 2,
+                        "brand": "Apple",
+                        "model": "MacBook Pro 16 M3",
+                        "price": 2500,
+                        "specs": {
+                                    "processor": "Apple M3 Pro",
+                                    "ram": "32GB",
+                                    "storage": "1TB SSD",
+                                    "display": "16-inch Retina"
+                        },
+                        "availability": "Limited Stock"
+            },
+            {
+                        "id": 3,
+                        "brand": "Dell",
+                        "model": "XPS 13",
+                        "price": 1400,
+                        "specs": {
+                                    "processor": "Intel Core i7-1360P",
+                                    "ram": "16GB",
+                                    "storage": "512GB SSD",
+                                    "display": "13.4-inch OLED"
+                        },
+                        "availability": "In Stock"
+            },
+            {
+                        "id": 4,
+                        "brand": "Dell",
+                        "model": "XPS 15",
+                        "price": 1900,
+                        "specs": {
+                                    "processor": "Intel Core i9-13900H",
+                                    "ram": "32GB",
+                                    "storage": "1TB SSD",
+                                    "display": "15.6-inch OLED"
+                        },
+                        "availability": "In Stock"
+            },
+            {
+                        "id": 5,
+                        "brand": "HP",
+                        "model": "Spectre x360",
+                        "price": 1500,
+                        "specs": {
+                                    "processor": "Intel Core i7-13700H",
+                                    "ram": "16GB",
+                                    "storage": "1TB SSD",
+                                    "display": "14-inch OLED Touch"
+                        },
+                        "availability": "Out of Stock"
+            },
+            {
+                        "id": 6,
+                        "brand": "HP",
+                        "model": "Omen 16",
+                        "price": 1700,
+                        "specs": {
+                                    "processor": "AMD Ryzen 9 7940HS",
+                                    "ram": "32GB",
+                                    "storage": "1TB SSD",
+                                    "display": "16.1-inch QHD 165Hz"
+                        },
+                        "availability": "In Stock"
+            },
+            {
+                        "id": 7,
+                        "brand": "Lenovo",
+                        "model": "ThinkPad X1 Carbon",
+                        "price": 1800,
+                        "specs": {
+                                    "processor": "Intel Core i7-1365U",
+                                    "ram": "16GB",
+                                    "storage": "512GB SSD",
+                                    "display": "14-inch IPS"
+                        },
+                        "availability": "Limited Stock"
+            },
+            {
+                        "id": 8,
+                        "brand": "Lenovo",
+                        "model": "Legion 7",
+                        "price": 2200,
+                        "specs": {
+                                    "processor": "AMD Ryzen 9 7945HX",
+                                    "ram": "32GB",
+                                    "storage": "1TB SSD",
+                                    "display": "16-inch 240Hz QHD+"
+                        },
+                        "availability": "In Stock"
+            },
+            {
+                        "id": 9,
+                        "brand": "Asus",
+                        "model": "ROG Zephyrus G14",
+                        "price": 1600,
+                        "specs": {
+                                    "processor": "AMD Ryzen 9 6900HS",
+                                    "ram": "32GB",
+                                    "storage": "1TB SSD",
+                                    "display": "14-inch 165Hz QHD"
+                        },
+                        "availability": "Limited Stock"
+            },
+            {
+                        "id": 10,
+                        "brand": "Asus",
+                        "model": "ZenBook Pro Duo",
+                        "price": 2400,
+                        "specs": {
+                                    "processor": "Intel Core i9-13900H",
+                                    "ram": "32GB",
+                                    "storage": "1TB SSD",
+                                    "display": "15.6-inch 4K OLED + Secondary Screen"
+                        },
+                        "availability": "Pre-order Only"
+            },
+            {
+                        "id": 11,
+                        "brand": "Acer",
+                        "model": "Predator Helios 300",
+                        "price": 1500,
+                        "specs": {
+                                    "processor": "Intel Core i7-13700H",
+                                    "ram": "16GB",
+                                    "storage": "1TB SSD",
+                                    "display": "15.6-inch 165Hz QHD"
+                        },
+                        "availability": "In Stock"
+            },
+            {
+                        "id": 12,
+                        "brand": "Acer",
+                        "model": "Swift X",
+                        "price": 1200,
+                        "specs": {
+                                    "processor": "AMD Ryzen 7 6800U",
+                                    "ram": "16GB",
+                                    "storage": "512GB SSD",
+                                    "display": "14-inch IPS"
+                        },
+                        "availability": "In Stock"
+            },
+            {
+                        "id": 13,
+                        "brand": "MSI",
+                        "model": "Raider GE78",
+                        "price": 2800,
+                        "specs": {
+                                    "processor": "Intel Core i9-13980HX",
+                                    "ram": "64GB",
+                                    "storage": "2TB SSD",
+                                    "display": "17.3-inch 240Hz QHD"
+                        },
+                        "availability": "Limited Stock"
+            },
+            {
+                        "id": 14,
+                        "brand": "MSI",
+                        "model": "Stealth 15M",
+                        "price": 1300,
+                        "specs": {
+                                    "processor": "Intel Core i7-12700H",
+                                    "ram": "16GB",
+                                    "storage": "512GB SSD",
+                                    "display": "15.6-inch 144Hz FHD"
+                        },
+                        "availability": "In Stock"
+            },
+            {
+                        "id": 15,
+                        "brand": "Razer",
+                        "model": "Blade 15",
+                        "price": 2500,
+                        "specs": {
+                                    "processor": "Intel Core i9-13900H",
+                                    "ram": "32GB",
+                                    "storage": "1TB SSD",
+                                    "display": "15.6-inch 240Hz QHD"
+                        },
+                        "availability": "Pre-order Only"
+            },
+            {
+                        "id": 16,
+                        "brand": "Razer",
+                        "model": "Blade 14",
+                        "price": 2200,
+                        "specs": {
+                                    "processor": "AMD Ryzen 9 7940HS",
+                                    "ram": "32GB",
+                                    "storage": "1TB SSD",
+                                    "display": "14-inch 165Hz QHD"
+                        },
+                        "availability": "In Stock"
+            },
+            {
+                        "id": 17,
+                        "brand": "Samsung",
+                        "model": "Galaxy Book 3 Pro",
+                        "price": 1600,
+                        "specs": {
+                                    "processor": "Intel Core i7-13700H",
+                                    "ram": "16GB",
+                                    "storage": "1TB SSD",
+                                    "display": "14-inch AMOLED"
+                        },
+                        "availability": "In Stock"
+            },
+            {
+                        "id": 18,
+                        "brand": "Microsoft",
+                        "model": "Surface Laptop 5",
+                        "price": 1400,
+                        "specs": {
+                                    "processor": "Intel Core i7-1265U",
+                                    "ram": "16GB",
+                                    "storage": "512GB SSD",
+                                    "display": "13.5-inch PixelSense"
+                        },
+                        "availability": "Out of Stock"
+            },
+            {
+                        "id": 19,
+                        "brand": "LG",
+                        "model": "Gram 16",
+                        "price": 1500,
+                        "specs": {
+                                    "processor": "Intel Core i7-1365U",
+                                    "ram": "16GB",
+                                    "storage": "1TB SSD",
+                                    "display": "16-inch IPS"
+                        },
+                        "availability": "In Stock"
+            },
+            {
+                        "id": 20,
+                        "brand": "Huawei",
+                        "model": "MateBook X Pro",
+                        "price": 1800,
+                        "specs": {
+                                    "processor": "Intel Core i7-13700H",
+                                    "ram": "16GB",
+                                    "storage": "1TB SSD",
+                                    "display": "14.2-inch 3K Touch"
+                        },
+                        "availability": "Pre-order Only"
+            }
+]
