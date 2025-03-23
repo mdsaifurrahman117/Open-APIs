@@ -1,0 +1,142 @@
+[
+            {
+                        "id": 1,
+                        "title": "To Kill a Mockingbird",
+                        "author": "Harper Lee",
+                        "genre": "Fiction",
+                        "description": "A classic novel about racial injustice and moral growth in the Deep South."
+            },
+            {
+                        "id": 2,
+                        "title": "1984",
+                        "author": "George Orwell",
+                        "genre": "Dystopian",
+                        "description": "A chilling vision of a totalitarian future where Big Brother watches everyone."
+            },
+            {
+                        "id": 3,
+                        "title": "Pride and Prejudice",
+                        "author": "Jane Austen",
+                        "genre": "Romance",
+                        "description": "A witty and romantic novel about love, class, and social expectations in 19th-century England."
+            },
+            {
+                        "id": 4,
+                        "title": "The Great Gatsby",
+                        "author": "F. Scott Fitzgerald",
+                        "genre": "Classic",
+                        "description": "A tragic story of wealth, love, and the American Dream in the Roaring Twenties."
+            },
+            {
+                        "id": 5,
+                        "title": "Moby-Dick",
+                        "author": "Herman Melville",
+                        "genre": "Adventure",
+                        "description": "An epic tale of obsession and revenge on the high seas."
+            },
+            {
+                        "id": 6,
+                        "title": "War and Peace",
+                        "author": "Leo Tolstoy",
+                        "genre": "Historical Fiction",
+                        "description": "A sweeping saga of Russian society during the Napoleonic Wars."
+            },
+            {
+                        "id": 7,
+                        "title": "Crime and Punishment",
+                        "author": "Fyodor Dostoevsky",
+                        "genre": "Psychological Fiction",
+                        "description": "A gripping novel about guilt, redemption, and the human psyche."
+            },
+            {
+                        "id": 8,
+                        "title": "The Catcher in the Rye",
+                        "author": "J.D. Salinger",
+                        "genre": "Coming-of-Age",
+                        "description": "A rebellious teenager's journey through New York City, exploring themes of identity and isolation."
+            },
+            {
+                        "id": 9,
+                        "title": "Brave New World",
+                        "author": "Aldous Huxley",
+                        "genre": "Science Fiction",
+                        "description": "A dystopian world where happiness is engineered and individuality is suppressed."
+            },
+            {
+                        "id": 10,
+                        "title": "The Hobbit",
+                        "author": "J.R.R. Tolkien",
+                        "genre": "Fantasy",
+                        "description": "The adventurous journey of Bilbo Baggins, a hobbit caught in an epic quest."
+            },
+            {
+                        "id": 11,
+                        "title": "The Lord of the Rings",
+                        "author": "J.R.R. Tolkien",
+                        "genre": "Fantasy",
+                        "description": "An epic tale of good versus evil in Middle-earth."
+            },
+            {
+                        "id": 12,
+                        "title": "Harry Potter and the Sorcerer’s Stone",
+                        "author": "J.K. Rowling",
+                        "genre": "Fantasy",
+                        "description": "A young boy discovers he is a wizard and attends Hogwarts School of Witchcraft and Wizardry."
+            },
+            {
+                        "id": 13,
+                        "title": "The Alchemist",
+                        "author": "Paulo Coelho",
+                        "genre": "Philosophical Fiction",
+                        "description": "A young shepherd embarks on a journey to discover his personal legend."
+            },
+            {
+                        "id": 14,
+                        "title": "One Hundred Years of Solitude",
+                        "author": "Gabriel García Márquez",
+                        "genre": "Magical Realism",
+                        "description": "A multi-generational saga of the Buendía family in the mythical town of Macondo."
+            },
+            {
+                        "id": 15,
+                        "title": "The Book Thief",
+                        "author": "Markus Zusak",
+                        "genre": "Historical Fiction",
+                        "description": "A moving story about a girl in Nazi Germany who finds solace in stolen books."
+            },
+            {
+                        "id": 16,
+                        "title": "The Road",
+                        "author": "Cormac McCarthy",
+                        "genre": "Post-Apocalyptic",
+                        "description": "A father and son journey through a desolate, ruined world."
+            },
+            {
+                        "id": 17,
+                        "title": "The Kite Runner",
+                        "author": "Khaled Hosseini",
+                        "genre": "Drama",
+                        "description": "A powerful story of friendship, betrayal, and redemption set in Afghanistan."
+            },
+            {
+                        "id": 18,
+                        "title": "Sapiens: A Brief History of Humankind",
+                        "author": "Yuval Noah Harari",
+                        "genre": "Non-Fiction",
+                        "description": "An exploration of the history and impact of Homo sapiens on the world."
+            },
+            {
+                        "id": 19,
+                        "title": "Meditations",
+                        "author": "Marcus Aurelius",
+                        "genre": "Philosophy",
+                        "description": "Reflections on life and Stoic wisdom from a Roman emperor."
+            },
+            {
+                        "id": 20,
+                        "title": "Atomic Habits",
+                        "author": "James Clear",
+                        "genre": "Self-Help",
+                        "description": "A guide to building good habits and breaking bad ones through small changes."
+            }
+]
