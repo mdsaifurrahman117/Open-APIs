@@ -1,0 +1,199 @@
+[
+            {
+                        "id": 1,
+                        "name": "Ayesha Khan",
+                        "image": "",
+                        "profession": "Frontend Developer",
+                        "years_of_experience": 4,
+                        "ide": "VS Code",
+                        "machine": "MacBook Pro M1",
+                        "tech_stack": [
+                                    "HTML",
+                                    "CSS",
+                                    "JavaScript",
+                                    "React",
+                                    "Tailwind CSS"
+                        ],
+                        "email": "ayesha.khan@example.com",
+                        "location": "Dhaka, Bangladesh",
+                        "team": "UI Team",
+                        "phone": "+8801712345678",
+                        "availability": "Full-time"
+            },
+            {
+                        "id": 2,
+                        "name": "David Miller",
+                        "profession": "Backend Developer",
+                        "years_of_experience": 6,
+                        "ide": "IntelliJ IDEA",
+                        "machine": "Windows Desktop",
+                        "tech_stack": [
+                                    "Java",
+                                    "Spring Boot",
+                                    "MySQL",
+                                    "Docker"
+                        ],
+                        "email": "david.miller@example.com",
+                        "location": "New York, USA",
+                        "team": "Backend Services",
+                        "phone": "+1-212-555-1234",
+                        "availability": "Full-time"
+            },
+            {
+                        "id": 3,
+                        "name": "Sadia Rahman",
+                        "profession": "Full Stack Developer",
+                        "years_of_experience": 5,
+                        "ide": "VS Code",
+                        "machine": "Ubuntu Laptop",
+                        "tech_stack": [
+                                    "Node.js",
+                                    "Express",
+                                    "React",
+                                    "MongoDB",
+                                    "Tailwind"
+                        ],
+                        "email": "sadia.rahman@example.com",
+                        "location": "Chittagong, Bangladesh",
+                        "team": "Product Engineering",
+                        "phone": "+8801612345678",
+                        "availability": "Full-time"
+            },
+            {
+                        "id": 4,
+                        "name": "John Carter",
+                        "profession": "DevOps Engineer",
+                        "years_of_experience": 7,
+                        "ide": "Sublime Text",
+                        "machine": "Windows Server",
+                        "tech_stack": [
+                                    "AWS",
+                                    "Docker",
+                                    "Kubernetes",
+                                    "Jenkins",
+                                    "Terraform"
+                        ],
+                        "email": "john.carter@example.com",
+                        "location": "Austin, USA",
+                        "team": "Infrastructure",
+                        "phone": "+1-512-555-0199",
+                        "availability": "Full-time"
+            },
+            {
+                        "id": 5,
+                        "name": "Mehedi Hasan",
+                        "profession": "Mobile App Developer",
+                        "years_of_experience": 3,
+                        "ide": "Android Studio",
+                        "machine": "Windows Laptop",
+                        "tech_stack": [
+                                    "Kotlin",
+                                    "Java",
+                                    "Firebase",
+                                    "SQLite"
+                        ],
+                        "email": "mehedi.hasan@example.com",
+                        "location": "Rajshahi, Bangladesh",
+                        "team": "Mobile Team",
+                        "phone": "+8801812345678",
+                        "availability": "Freelance"
+            },
+            {
+                        "id": 6,
+                        "name": "Lara Smith",
+                        "profession": "UI/UX Designer",
+                        "years_of_experience": 4,
+                        "ide": "Figma",
+                        "machine": "MacBook Air",
+                        "tech_stack": [
+                                    "Figma",
+                                    "Sketch",
+                                    "Adobe XD",
+                                    "InVision"
+                        ],
+                        "email": "lara.smith@example.com",
+                        "location": "London, UK",
+                        "team": "Design Studio",
+                        "phone": "+44-20-7946-0999",
+                        "availability": "Part-time"
+            },
+            {
+                        "id": 7,
+                        "name": "Asif Iqbal",
+                        "profession": "Data Scientist",
+                        "years_of_experience": 6,
+                        "ide": "Jupyter Notebook",
+                        "machine": "Linux Desktop",
+                        "tech_stack": [
+                                    "Python",
+                                    "Pandas",
+                                    "NumPy",
+                                    "TensorFlow",
+                                    "Scikit-learn"
+                        ],
+                        "email": "asif.iqbal@example.com",
+                        "location": "Sylhet, Bangladesh",
+                        "team": "AI Research",
+                        "phone": "+8801512345678",
+                        "availability": "Full-time"
+            },
+            {
+                        "id": 8,
+                        "name": "Emma Brown",
+                        "profession": "Machine Learning Engineer",
+                        "years_of_experience": 5,
+                        "ide": "PyCharm",
+                        "machine": "Ubuntu Workstation",
+                        "tech_stack": [
+                                    "Python",
+                                    "Keras",
+                                    "PyTorch",
+                                    "OpenCV",
+                                    "AWS SageMaker"
+                        ],
+                        "email": "emma.brown@example.com",
+                        "location": "Toronto, Canada",
+                        "team": "ML Ops",
+                        "phone": "+1-647-555-3456",
+                        "availability": "Full-time"
+            },
+            {
+                        "id": 9,
+                        "name": "Tanvir Hossain",
+                        "profession": "Web Developer",
+                        "years_of_experience": 2,
+                        "ide": "VS Code",
+                        "machine": "Windows Laptop",
+                        "tech_stack": [
+                                    "PHP",
+                                    "Laravel",
+                                    "MySQL",
+                                    "Bootstrap"
+                        ],
+                        "email": "tanvir.hossain@example.com",
+                        "location": "Khulna, Bangladesh",
+                        "team": "Web Team",
+                        "phone": "+8801719876543",
+                        "availability": "Freelance"
+            },
+            {
+                        "id": 10,
+                        "name": "Sophia Lee",
+                        "profession": "Cloud Engineer",
+                        "years_of_experience": 5,
+                        "ide": "Cloud9",
+                        "machine": "Cloud Environment",
+                        "tech_stack": [
+                                    "AWS",
+                                    "Azure",
+                                    "Terraform",
+                                    "Linux",
+                                    "CI/CD"
+                        ],
+                        "email": "sophia.lee@example.com",
+                        "location": "Seoul, South Korea",
+                        "team": "Cloud Architecture",
+                        "phone": "+82-10-5555-4444",
+                        "availability": "Full-time"
+            }
+]
